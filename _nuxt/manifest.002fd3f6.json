@@ -1,0 +1,9 @@
+{
+  "name": "lucky-local-website",
+  "short_name": "lucky-local-website",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "de"
+}
