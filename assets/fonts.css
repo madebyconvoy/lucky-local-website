@@ -1,0 +1,36 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3987863, 2020-12-16T07:00:12-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: AvertaPE-Extrabold by Intelligent Design
+ * URL: https://www.myfonts.com/fonts/intelligent-foundry/averta/pe-exbold-177940/
+ *
+ * Webfont: AvertaPE-SemiboldItalic by Intelligent Design
+ * URL: https://www.myfonts.com/fonts/intelligent-foundry/averta/pe-semibold-ital-177940/
+ *
+ *
+ * Webfonts copyright: Copyright (c) 2015 by Kostas Bartsokas. All rights reserved.
+ *
+ * © 2020 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url('//hello.myfonts.net/count/3cd997');
+
+@font-face {
+    font-family: 'Averta';
+    src: url('averta-semibold-italic.woff2') format('woff2');
+    font-weight: '600';
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Averta';
+    src: url('averta-extrabold.woff2') format('woff2');
+    font-weight: '800';
+}
