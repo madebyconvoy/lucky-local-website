@@ -2,7 +2,7 @@
   "name": "lucky-local-website",
   "short_name": "lucky-local-website",
   "icons": [],
-  "start_url": "/lucky-local-website/?standalone=true",
+  "start_url": "/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "lang": "de"
