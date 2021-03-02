@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="123px" height="123px" viewBox="0 0 123 123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 45</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="71.255808" height="71.255808" rx="35.627904"></rect>
+        <filter x="-99.1%" y="-26.9%" width="298.1%" height="153.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="14.309568" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-233.3%" y="-63.6%" width="566.7%" height="227.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="14.309568" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Landingpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Lucky-Local-Landingpage" transform="translate(-673.000000, -4295.000000)">
+            <g id="App" transform="translate(265.000000, 4242.000000)">
+                <g id="Group-45" transform="translate(408.000000, 53.000000)">
+                    <rect id="Rectangle-Copy-39" fill="#FFFFFF" x="0.6552" y="0.6552" width="121.68" height="121.68" rx="60.84"></rect>
+                    <g id="Oval-+-Oval-Copy-+-Oval-Copy-2-+-Oval-Copy-3-Mask" transform="translate(25.721280, 25.721280)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#E6294D" xlink:href="#path-1"></use>
+                        <ellipse id="Oval-Copy" fill="#FFF688" opacity="0.323514717" filter="url(#filter-3)" mask="url(#mask-2)" cx="70.7885568" cy="-18.3396096" rx="21.6687744" ry="79.724736"></ellipse>
+                        <ellipse id="Oval-Copy-3" fill="#FFFFFF" opacity="0.334325036" filter="url(#filter-4)" mask="url(#mask-2)" cx="-4.6433088" cy="-5.0521536" rx="9.199008" ry="33.729696"></ellipse>
+                        <g id="btn-/-erstellen" mask="url(#mask-2)">
+                            <g transform="translate(16.821043, 16.821043)" id="Icon-/-plus" fill="#FFFFFF">
+                                <path d="M18.8068608,2.3508576 C19.4096628,2.3508576 19.9064829,2.80462036 19.9743816,3.38920657 L19.9822896,3.5262864 L19.9822896,17.631432 L34.0874352,17.631432 C34.7366066,17.631432 35.262864,18.1576894 35.262864,18.8068608 C35.262864,19.4096628 34.8091012,19.9064829 34.224515,19.9743816 L34.0874352,19.9822896 L19.9822896,19.9822896 L19.9822896,34.0874352 C19.9822896,34.7366066 19.4560322,35.262864 18.8068608,35.262864 C18.2040588,35.262864 17.7072387,34.8091012 17.63934,34.224515 L17.631432,34.0874352 L17.631432,19.9822896 L3.5262864,19.9822896 C2.877115,19.9822896 2.3508576,19.4560322 2.3508576,18.8068608 C2.3508576,18.2040588 2.80462036,17.7072387 3.38920657,17.63934 L3.5262864,17.631432 L17.631432,17.631432 L17.631432,3.5262864 C17.631432,2.877115 18.1576894,2.3508576 18.8068608,2.3508576 Z" id="Path"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
