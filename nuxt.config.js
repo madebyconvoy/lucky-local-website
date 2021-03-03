@@ -127,7 +127,10 @@ export default {
     css: ['@/assets/fonts.css'],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-    plugins: ['~/plugins/Glide.js'],
+    plugins: [
+        '~/plugins/Glide.js',
+        '~/plugins/cookieguard.client.js',
+    ],
 
     // Auto import components: https://go.nuxtjs.dev/config-components
     components: true,

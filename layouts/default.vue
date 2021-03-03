@@ -209,6 +209,7 @@
                 </Container>
             </div>
         </footer>
+        <CookieConsent />
     </div>
 </template>
 
@@ -218,6 +219,7 @@ import Container from '@/components/utils/Container'
 import { Button, Heading, Paragraph } from '@/components/utils'
 import FadeInOut from '@/components/transitions/FadeInOut'
 import gsap, { Power2 } from 'gsap'
+import CookieConsent from '@/components/CookieConsent'
 
 export default {
     components: {
@@ -226,7 +228,8 @@ export default {
         Button,
         Heading,
         Paragraph,
-        FadeInOut
+        FadeInOut,
+        CookieConsent,
     },
 
     data() {
