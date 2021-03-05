@@ -10,7 +10,6 @@
         <!-- big play button  -->
         <button
             ref="bigPlay"
-            @click="initialPlay"
             class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-2/12"
         >
             <svg
@@ -197,15 +196,12 @@ export default {
     },
 
     methods: {
-        initialPlay() {
-            this.$refs.bigPlay.style.display = 'none'
-            this.$refs.videoToolbar.style.display = 'block'
-            this.play()
-        },
         togglePlay() {
             this.$refs.player.paused ? this.play() : this.pause()
         },
         play() {
+            this.$refs.bigPlay.style.display = 'none'
+            this.$refs.videoToolbar.style.display = 'block'
             document.dispatchEvent(new CustomEvent('video:plays'))
             this.$nextTick(() => this.$refs.player.play())
         },
