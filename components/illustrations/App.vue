@@ -2,12 +2,12 @@
     <div class="relative ">
         <img
             class="w-full shadow-lg hidden md:block"
-            src="@/assets/app-large.svg"
+            src="@/assets/app-large.png"
             alt=""
         />
         <img
             class="block w-8/12 mx-auto rounded-3xl shadow-lg md:hidden"
-            src="@/assets/app-mobile.svg"
+            src="@/assets/app-mobile.png"
             alt=""
         />
 
